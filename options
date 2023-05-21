@@ -1,0 +1,29 @@
+--class-path
+'/Users/jorgenfinsveen/.m2/repository/org/openjfx/javafx-controls/20-ea+9/javafx-controls-20-ea+9.jar:/Users/jorgenfinsveen/.m2/repository/org/openjfx/javafx-graphics/20-ea+9/javafx-graphics-20-ea+9.jar:/Users/jorgenfinsveen/.m2/repository/org/openjfx/javafx-base/20-ea+9/javafx-base-20-ea+9.jar:/Users/jorgenfinsveen/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.0.0/jakarta.persistence-api-3.0.0.jar:/Users/jorgenfinsveen/.m2/repository/org/eclipse/persistence/eclipselink/3.0.0/eclipselink-3.0.0.jar'
+--module-path
+'/Users/jorgenfinsveen/.m2/repository/org/openjfx/javafx-controls/20-ea+9/javafx-controls-20-ea+9-mac-aarch64.jar:/Users/jorgenfinsveen/.m2/repository/org/openjfx/javafx-graphics/20-ea+9/javafx-graphics-20-ea+9-mac-aarch64.jar:/Users/jorgenfinsveen/.m2/repository/org/openjfx/javafx-base/20-ea+9/javafx-base-20-ea+9-mac-aarch64.jar:/Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/4 Semester/IDATA2001/prosjekt/paths/target/classes'
+--patch-module
+paths='/Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/4 Semester/IDATA2001/prosjekt/paths/src/main/java'
+-encoding
+'UTF-8'
+-public
+-source
+'17'
+--module-source-path
+'/Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/4 Semester/IDATA2001/prosjekt/paths/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/jorgenfinsveen/Documents/Dokumenter  Joergens MacBook Pro/NTNU Aalesund/4 Semester/IDATA2001/prosjekt/paths/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'paths 1.0 API'
+-nohelp
+-use
+-version
+-windowtitle
+'paths 1.0 API'
